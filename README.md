@@ -1,2 +1,3 @@
-Run application with: python app.py
 Verification user in the console.
+Run application with: python app.py
+
